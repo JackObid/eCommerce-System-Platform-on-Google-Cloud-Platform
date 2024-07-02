@@ -80,5 +80,5 @@ The project follows a microservices architecture to ensure scalability, modulari
 Each microservice runs in its own Docker container, managed by GKE. The Google Cloud Load Balancing service ensures efficient routing and load balancing, providing a scalable and reliable eCommerce platform.
 
 **Conclusion:**
-By leveraging GCP-specific tools and services, this alternative eCommerce system platform ensures enhanced scalability, efficiency, and ease of management while maintaining a robust and modular architecture.
+By leveraging GCP-specific tools and services, this eCommerce system platform ensures enhanced scalability, efficiency, and ease of management while maintaining a robust and modular architecture.
 
