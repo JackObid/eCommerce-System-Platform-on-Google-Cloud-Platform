@@ -8,11 +8,11 @@
 5. **Google Cloud Load Balancing for routing and load balancing.**
 
 **Technologies:**
-- **Node.js:** Backend development.
-- **React.js (Next.js):** Frontend user interface.
-- **Docker:** Containerization of microservices.
-- **Google Kubernetes Engine (GKE):** Container orchestration.
-- **Google Cloud Load Balancing:** Load balancing.
+- **Node.js:** Backend development
+- **React.js (Next.js):** Frontend user interface
+- **Docker:** Containerization of microservices
+- **Google Kubernetes Engine (GKE):** Container orchestration
+- **Google Cloud Load Balancing:** Load balancing
 
 **Getting Started:**
 
